@@ -11,4 +11,4 @@
 7. 서로서로 도우며 진행해주세요!
 6. **모르면 꼭 질문하세요!!!**
 
-![](https://github.com/hanugogi/1_Grade_Mentoring/tree/master/1st/Image/Mentor-Mentee.png)
+![text](https://github.com/hanugogi/1_Grade_Mentoring/tree/master/1st/Image/Mentor-Mentee.png)
