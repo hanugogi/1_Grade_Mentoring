@@ -1,6 +1,6 @@
 # IR 센서
 
-![텍스트](https://github.com/hanugogi/1_Grade_Mentoring/blob/master/1st/Image/IR_sensor.jpg "IR 센서")
+![](https://github.com/hanugogi/1_Grade_Mentoring/blob/master/1st/Image/IR_sensor.jpg "IR 센서")
 
 ## 적외선을 발생시키는 LED와 적외선을 감지하는 센서로 구성되어 있다.
 
