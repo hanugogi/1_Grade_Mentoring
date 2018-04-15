@@ -1,4 +1,4 @@
-#1 Grade homework
+# 1 Grade homework
 
 신입생 여러분이 과제를 제출해야 하는 폴더입니다.
 아래의 규칙을 지켜주시기 바랍니다.
