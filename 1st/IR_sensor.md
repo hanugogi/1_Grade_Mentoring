@@ -1,5 +1,7 @@
 # IR 센서
 
+![](https://github.com/hanugogi/1_Grade_Mentoring/blob/master/1st/Image/IR_sensor.jpg)
+
 ## 적외선을 발생시키는 LED와 적외선을 감지하는 센서로 구성되어 있다.
 
 ## 센서에 감지되는 빛의 양에 따라 전류의 흐름이 달라진다.
