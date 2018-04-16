@@ -7,6 +7,7 @@
 ### 보편적으로 사용되는 곳
 - 아날로그 출력
 - 모터 세기 조정
+- 서보 모터 각도 조절
 - LED 밝기 조절
 ### Arduino에서는 analogWrite 함수를 이용하여 간단하게 조정 가능
 ![](https://github.com/hanugogi/1_Grade_Mentoring/blob/master/1st/Image/DC_motor_source.png "모터 PWM 제어")
